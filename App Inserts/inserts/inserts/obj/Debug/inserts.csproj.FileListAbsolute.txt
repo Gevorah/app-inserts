@@ -1,0 +1,9 @@
+C:\Users\Aspire F 15\Desktop\Actividad 3_ Ijaji_Villa\App Inserts\inserts\inserts\bin\Debug\inserts.exe.config
+C:\Users\Aspire F 15\Desktop\Actividad 3_ Ijaji_Villa\App Inserts\inserts\inserts\bin\Debug\inserts.exe
+C:\Users\Aspire F 15\Desktop\Actividad 3_ Ijaji_Villa\App Inserts\inserts\inserts\bin\Debug\inserts.pdb
+C:\Users\Aspire F 15\Desktop\Actividad 3_ Ijaji_Villa\App Inserts\inserts\inserts\obj\Debug\inserts.csprojAssemblyReference.cache
+C:\Users\Aspire F 15\Desktop\Actividad 3_ Ijaji_Villa\App Inserts\inserts\inserts\obj\Debug\inserts.Properties.Resources.resources
+C:\Users\Aspire F 15\Desktop\Actividad 3_ Ijaji_Villa\App Inserts\inserts\inserts\obj\Debug\inserts.csproj.GenerateResource.cache
+C:\Users\Aspire F 15\Desktop\Actividad 3_ Ijaji_Villa\App Inserts\inserts\inserts\obj\Debug\inserts.csproj.CoreCompileInputs.cache
+C:\Users\Aspire F 15\Desktop\Actividad 3_ Ijaji_Villa\App Inserts\inserts\inserts\obj\Debug\inserts.exe
+C:\Users\Aspire F 15\Desktop\Actividad 3_ Ijaji_Villa\App Inserts\inserts\inserts\obj\Debug\inserts.pdb
